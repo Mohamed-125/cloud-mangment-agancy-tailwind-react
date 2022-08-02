@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cloud-mangment-agancy-tailwind-react/static/css/main.2c30d5c1.css",
+    "main.js": "/cloud-mangment-agancy-tailwind-react/static/js/main.7ca4ec91.js",
+    "index.html": "/cloud-mangment-agancy-tailwind-react/index.html",
+    "main.2c30d5c1.css.map": "/cloud-mangment-agancy-tailwind-react/static/css/main.2c30d5c1.css.map",
+    "main.7ca4ec91.js.map": "/cloud-mangment-agancy-tailwind-react/static/js/main.7ca4ec91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c30d5c1.css",
+    "static/js/main.7ca4ec91.js"
+  ]
+}
